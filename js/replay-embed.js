@@ -12,28 +12,28 @@ function requireScript(url) {
 	document.head.appendChild(scriptEl);
 }
 
-linkStyle('https://fnf-showdown-client.herokuapp.com/style/font-awesome.css?');
-linkStyle('https://fnf-showdown-client.herokuapp.com/style/battle.css?a7');
-linkStyle('https://fnf-showdown-client.herokuapp.com/style/replay.css?a7');
-linkStyle('https://fnf-showdown-client.herokuapp.com/style/utilichart.css?a7');
+linkStyle('https://pokemon-adventures.herokuapp.com/style/font-awesome.css?');
+linkStyle('https://pokemon-adventures.herokuapp.com/style/battle.css?a7');
+linkStyle('https://pokemon-adventures.herokuapp.com/style/replay.css?a7');
+linkStyle('https://pokemon-adventures.herokuapp.com/style/utilichart.css?a7');
 
-requireScript('https://fnf-showdown-client.herokuapp.com/js/lib/ps-polyfill.js');
-requireScript('https://fnf-showdown-client.herokuapp.com/config/config.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/js/lib/jquery-1.11.0.min.js');
-requireScript('https://fnf-showdown-client.herokuapp.com/js/lib/lodash.compat.js');
-requireScript('https://fnf-showdown-client.herokuapp.com/js/lib/html-sanitizer-minified.js');
-requireScript('https://fnf-showdown-client.herokuapp.com/js/battle-sound.js');
-requireScript('https://fnf-showdown-client.herokuapp.com/js/battledata.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/data/pokedex-mini.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/data/pokedex-mini-bw.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/data/graphics.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/data/pokedex.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/data/moves.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/data/abilities.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/data/items.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/data/teambuilder-tables.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/js/battle-tooltips.js?a7');
-requireScript('https://fnf-showdown-client.herokuapp.com/js/battle.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/js/lib/ps-polyfill.js');
+requireScript('https://pokemon-adventures.herokuapp.com/config/config.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/js/lib/jquery-1.11.0.min.js');
+requireScript('https://pokemon-adventures.herokuapp.com/js/lib/lodash.compat.js');
+requireScript('https://pokemon-adventures.herokuapp.com/js/lib/html-sanitizer-minified.js');
+requireScript('https://pokemon-adventures.herokuapp.com/js/battle-sound.js');
+requireScript('https://pokemon-adventures.herokuapp.com/js/battledata.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/data/pokedex-mini.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/data/pokedex-mini-bw.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/data/graphics.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/data/pokedex.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/data/moves.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/data/abilities.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/data/items.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/data/teambuilder-tables.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/js/battle-tooltips.js?a7');
+requireScript('https://pokemon-adventures.herokuapp.com/js/battle.js?a7');
 
 var Replays = {
 	battle: null,

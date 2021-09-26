@@ -1,6 +1,6 @@
 {
-    "root": "fnf-showdown.herokuapp.com",
-    "client": "fnf-showdown-client.herokuapp.com",
+    "root": "pokemonadventuress.herokuapp.com",
+    "client": "pokemon-adventures.herokuapp.com",
     "dex": "dex.pokemonshowdown.com",
     "replays": "replay.pokemonshowdown.com",
     "users": "pokemonshowdown.com/users"

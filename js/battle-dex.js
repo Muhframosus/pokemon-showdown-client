@@ -181,7 +181,7 @@ pokeballs=null;this.
 
 resourcePrefix="https://raw.githubusercontent.com/noelcerulean/pokemonshowdownimages/master/";this.
 
-fxPrefix="https://raw.githubusercontent.com/noelcerulean/pokemonshowdownimages/master/fx";this.
+fxPrefix="https://raw.githubusercontent.com/noelcerulean/pokemonshowdownimages/master/fx/";this.
 
 loadedSpriteData={xy:1,bw:0};this.
 moddedDexes={};this.
